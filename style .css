@@ -1,5 +1,7 @@
 body {
-    background: url(0_ddZ0pazzQCPmUuzp.jpg);
+    background: url(0_ddZ0pazzQCPmUuzp.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: whitesmoke;
     font-weight: lighter;
     padding: 50px;
